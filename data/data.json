@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "user_name": "Pooja",
+            "user_phone": "9876543210",
+            "user_address": "Delhi",
+            "users_emergency_contact": null,
+            "users_identity": null
+        },
+        {
+            "user_name": "aryan",
+            "user_phone": "93930",
+            "user_address": "0202",
+            "users_emergency_contact": null,
+            "users_identity": null
+        },
+        {
+            "user_name": "odd",
+            "user_phone": "kdkde",
+            "user_address": "kldkld",
+            "users_emergency_contact": "kdkd",
+            "users_identity": "kdkd"
+        }
+    ]
+}
