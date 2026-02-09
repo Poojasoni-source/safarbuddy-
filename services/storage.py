@@ -2,7 +2,7 @@ import json
 import os
 from models.users import User
 
-FILE_NAME = "data.json"
+FILE_NAME = "data/data.json"
 
 
 def load_users():
